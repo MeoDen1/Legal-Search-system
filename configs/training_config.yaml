@@ -1,0 +1,14 @@
+device: cuda
+input_dim: 768
+output_dim: 256
+decoder_depth: 1
+# Hyperparameters
+batch_size: 64
+epochs: 5
+learning_rate: 2e-4
+label_smoothing: 0.1
+scheduler_name: warmup_exp
+warmup_steps: 150
+total_steps: 2000
+# validation_step: perform validatioin every x steps
+validation_step: 2

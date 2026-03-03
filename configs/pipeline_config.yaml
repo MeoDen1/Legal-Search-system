@@ -1,0 +1,22 @@
+data_path: data/20260226
+src_path: pipeline/src
+fresh_init: false
+training_kernel: kaggle
+# Start at step
+start: "l6"
+
+ingestion:
+  crawl_list: false
+  overwrite: false
+  driver:
+    type: edge
+
+processing:
+  document_tree_depth: 4
+
+clustering:
+  cluster_option: max
+  cluster_depth: 1
+
+build_dataset:
+  output_csv: "dataset.csv"

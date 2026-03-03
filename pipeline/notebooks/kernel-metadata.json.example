@@ -1,0 +1,14 @@
+{
+  "id": "username/l5-train-model",
+  "title": "l5-train-model",
+  "code_file": "l5-fullload-dev.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_internet": true,
+  "dataset_sources": [
+    "username/legal-sys-decoder-dataset",
+    "username/legal-sys-src"
+  ]
+}

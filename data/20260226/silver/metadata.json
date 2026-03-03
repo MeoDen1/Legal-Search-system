@@ -1,0 +1,63 @@
+{
+    "path": "/home/nguyen/projects/Legal-AI-System/data/20260226/silver/metadata.json",
+    "files": {
+        "48/2024/QH15": {
+            "name": "Luật Thuế giá trị gia tăng 2024",
+            "json_path": "/home/nguyen/projects/Legal-AI-System/data/20260226/silver/document_jsons/48_2024_QH15.json",
+            "update_time": "2026-02-27 15:17:37"
+        },
+        "26/2023/QH15": {
+            "name": "Luật Căn cước 2024",
+            "json_path": "/home/nguyen/projects/Legal-AI-System/data/20260226/silver/document_jsons/26_2023_QH15.json",
+            "update_time": "2026-02-27 15:17:38"
+        },
+        "52/2014/QH13": {
+            "name": "Luật Hôn nhân và Gia đình 2014",
+            "json_path": "/home/nguyen/projects/Legal-AI-System/data/20260226/silver/document_jsons/52_2014_QH13.json",
+            "update_time": "2026-02-27 15:17:39"
+        },
+        "36/2024/QH15": {
+            "name": "Luật Trật tự, an toàn giao thông đường bộ",
+            "json_path": "/home/nguyen/projects/Legal-AI-System/data/20260226/silver/document_jsons/36_2024_QH15.json",
+            "update_time": "2026-02-27 15:17:44"
+        },
+        "41/2024/QH15": {
+            "name": "Luật Bảo hiểm xã hội 2024",
+            "json_path": "/home/nguyen/projects/Legal-AI-System/data/20260226/silver/document_jsons/41_2024_QH15.json",
+            "update_time": "2026-02-27 15:17:44"
+        },
+        "45/2019/QH14": {
+            "name": "Bộ luật Lao động 2019",
+            "json_path": "/home/nguyen/projects/Legal-AI-System/data/20260226/silver/document_jsons/45_2019_QH14.json",
+            "update_time": "2026-02-27 15:17:45"
+        },
+        "91/2015/QH13": {
+            "name": "Bộ Luật dân sự 2015",
+            "json_path": "/home/nguyen/projects/Legal-AI-System/data/20260226/silver/document_jsons/91_2015_QH13.json",
+            "update_time": "2026-02-27 15:17:49"
+        },
+        "100/2015/QH13": {
+            "name": "Bộ luật Hình sự 2015",
+            "json_path": "/home/nguyen/projects/Legal-AI-System/data/20260226/silver/document_jsons/100_2015_QH13.json",
+            "update_time": "2026-02-27 15:17:50"
+        },
+        "59/2020/QH14": {
+            "name": "Luật Doanh nghiệp 2020",
+            "json_path": "/home/nguyen/projects/Legal-AI-System/data/20260226/silver/document_jsons/59_2020_QH14.json",
+            "update_time": "2026-02-27 15:17:47"
+        },
+        "31/2024/QH15": {
+            "name": "Luật Đất đai 2024",
+            "json_path": "/home/nguyen/projects/Legal-AI-System/data/20260226/silver/document_jsons/31_2024_QH15.json",
+            "update_time": "2026-02-27 15:17:49"
+        }
+    },
+    "cluster": {
+        "cluster_id": "5da8da08-1924-4256-8f54-c43d07adda68",
+        "cluster_path": "/home/nguyen/projects/Legal-AI-System/data/20260226/silver/cluster.json"
+    },
+    "datasets": {
+        "csv": "/home/nguyen/projects/Legal-AI-System/data/20260226/silver/datasets/dataset.csv",
+        "update_time": "2026-02-28 16:58:34"
+    }
+}

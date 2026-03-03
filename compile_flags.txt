@@ -1,0 +1,7 @@
+-xc++-header
+-Idatabase_engine/include
+-std=c++17
+-Wall
+-Idatabase_engine/include/libtorch/include
+-Idatabase_engine/include/libtorch/include/torch/csrc/api/include
+-D_GLIBCXX_USE_CXX11_ABI=1

@@ -1,0 +1,35 @@
+# exclude .exe file
+*
+!*.*
+!*/
+
+.resources/*.drawio.bkp
+
+# data
+data/*/bronze/*
+data/*/silver/*
+!data/*/silver/document_jsons
+!data/*/silver/metadata.json
+data/*/gold/*
+data/db/*
+
+notebooks/*
+notes/*
+
+pipeline/src/pipeline/l1_ingestion/*
+.env
+.venv
+.temp
+**/.ipynb_checkpoints
+**/__pycache__
+**/tmp
+**/.kaggleignore
+**/dataset-metadata.json
+**/libtorch/*
+**/gold/models/**
+database_engine/**/build/*
+**/.cache
+!**.gitkeep
+**/*.zip
+!Makefile
+
